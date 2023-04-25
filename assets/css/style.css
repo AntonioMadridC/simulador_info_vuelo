@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, blue, violet);
+}
+
+.box1{
+    background-color: white;
+    padding: 1.25rem;
+}
+
+.box2{
+    background-color: white;
+    padding: 1.5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.box3{
+    background-color: white;
+    padding: 1.25rem;
+}
